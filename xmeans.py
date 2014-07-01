@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 import numpy as np
-from sklearn.cluster import KMeans, MeanShift
+from sklearn.cluster import KMeans
 from math import sqrt, exp, log
 from numpy.linalg import det, inv, norm
 from scipy.stats import norm as normd
